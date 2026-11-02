@@ -1,6 +1,6 @@
 # Inneall MCP Tools (`local_inneallmcp`)
 
-**Version 1.1.3** · Moodle **4.5–5.2+** · GPL v3+
+**Version 1.1.4** · Moodle **4.5–5.2+** · GPL v3+
 
 Issues: https://github.com/ciaranInneall/moodle-local_inneallmcp/issues
 
